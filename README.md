@@ -8,5 +8,6 @@ Anggota : Dody Adi Nugroho               135610048
 		  Heru Bagus Nugroho   	 		 135610072
 		  Naufal Riza Fatahillah	     135610064
 		  I Made Adhi Govala Jaya		 135610053
+		  Syardi Baharuddin Husnia Jannah	135610080
 
 		  </pre>
