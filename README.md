@@ -9,5 +9,6 @@ Anggota : Aditya Dhani Sabang Saputra       135610075
 		  Naufal Riza Fatahillah	        135610064
 		  I Made Adhi Govala Jaya		    135610053
 		  Syardi Baharuddin Husnia Jannah	135610080
+		  Muhamad Arifin				 135610079
 
 		  </pre>
