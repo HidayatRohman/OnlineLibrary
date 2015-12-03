@@ -6,7 +6,7 @@ Anggota : Dody Adi Nugroho                  135610048
 		  Bujang Putro Wicaksono		    135610046
 		  Aditya Dhani Sabang Saputra       135610075
 		  Naufal Riza Fatahillah	        135610064
-		  Heru Bagoesz Nugroho   	 		135610072
+		  Heru Bagus Nugroho   	 		135610072
 		  I Made Adhi Govala Jaya		    135610053
 		  Syardi Baharuddin Husnia J		135610080
 		  Muhamad Arifin					135610079
