@@ -11,5 +11,3 @@ Anggota : Dody Adi Nugroho                  135610048
 		  Syardi Baharuddin Husnia J		135610080
 		  Muhamad Arifin					135610079
 </pre>
-
-Silahkan ketik pembagian kelompoknya :
