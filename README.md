@@ -1,8 +1,10 @@
 <pre># OnlineLibrary
 Team Work About OnlineLibrary
 Catatan : Jangan Menghapus data yang ada, tetapi kalian bisa menambahkan nama anda sebagai anggota.
-Ketua   : Hidayat Rohman                    135610082
-Anggota : 
+
+
+<b>Ketua   :</b> Hidayat Rohman                    135610082
+<b>Anggota :</b> 
 		<b>Programming :</b>
 						Bujang Putro Wicaksono		135610046
 		  				Aditya Dhani Sabang Saputra	135610075
