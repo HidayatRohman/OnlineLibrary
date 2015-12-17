@@ -17,6 +17,4 @@ Catatan : Jangan Menghapus data yang ada, tetapi kalian bisa menambahkan nama an
 		<b>Desainer     :</b>
 		  				Naufal Riza Fatahillah		135610064
 		  				Heru Bagus Nugroho			135610072
-		  
-		  
 </pre>
