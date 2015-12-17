@@ -15,7 +15,6 @@ Catatan : Jangan Menghapus data yang ada, tetapi kalian bisa menambahkan nama an
 						Syardi Baharuddin Husnia Janah	
 		  				Muhamad Arifin			
 		<b>Desainer     :</b>
-		  				
 		  				Bujang Putro Wicaksono		
 		  				Heru Bagus Nugroho		
 </pre>
