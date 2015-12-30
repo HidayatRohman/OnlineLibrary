@@ -5,5 +5,5 @@ br
 a(href='/users/') SHOW DATA
 p All Users
             each user in users
-                    p #{user.name} (#{user.email})
+                    p #{user.name} (#{user.email}) #{user.phone}
                     a.btn.btn-default.btn-info(href="/users/#{user.name}") Edit/Update
